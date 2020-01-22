@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mohammad:mohammad@ma2web-lf1e1.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "ma2web@dminPassword"
+}
