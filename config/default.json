@@ -1,4 +1,8 @@
 {
-    "mongoURI": "mongodb+srv://mohammad:mohammad@ma2web-lf1e1.gcp.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtToken": "ma2web@dminPassword"
+  "mongoURI": "mongodb://localhost:27017/socialnetwork",
+  "jwtToken": "ma2web@dminPassword",
+  "githubClientId": "0a8658d8ce0024835f16",
+  "githubClientSecret": "d30f0f7ab846789e91a542a651bf9ea7181587b5"
 }
+
+// "mongoURI": "mongodb+srv://mohammad:mohammad@ma2web-lf1e1.gcp.mongodb.net/test?retryWrites=true&w=majority",
