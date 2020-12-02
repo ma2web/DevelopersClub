@@ -1,6 +1,6 @@
 {
   "mongoURI": "mongodb://localhost:27017/socialnetwork",
-  "jwtToken": "ma2web@dminPassword",
+  "jwtToken": "ma2web",
   "githubClientId": "0a8658d8ce0024835f16",
   "githubClientSecret": "d30f0f7ab846789e91a542a651bf9ea7181587b5"
 }
